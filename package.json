@@ -14,6 +14,7 @@
   "author": "Andrew Peliza",
   "license": "ISC",
   "devDependencies": {
+    "@types/googlemaps": "^3.39.3",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.2",
     "webpack": "^4.41.2",
